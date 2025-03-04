@@ -60,3 +60,56 @@ header {
 hr {
   border: 1px solid #f6f8f9;
 }
+/* cerchio colorato */
+.cerchio {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  border-radius: 50%;
+  line-height: 15px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.spunta {
+  border: 1px solid #2cc6ab;
+  color: #2cc6ab;
+}
+
+.da-fare {
+  border: 1px solid #ff0000;
+  color: #ff0000;
+}
+
+.etichetta {
+  color: #ffffff;
+  padding: 6px;
+  font-size: 10px;
+  height: 15px;
+  border-radius: 10px;
+}
+
+.blu {
+  background-color: #99cbff;
+}
+
+.viola {
+  background-color: #ba55d3;
+}
+
+.verde-1 {
+  background-color: #3cb371;
+}
+
+.arancione {
+  background-color: #f4a460;
+}
+
+.rosa {
+  background-color: #c71585;
+}
+
+.verde-2 {
+  background-color: #9acd32;
+}

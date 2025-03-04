@@ -19,3 +19,44 @@ header {
   vertical-align: middle;
   padding-left: 20px;
 }
+
+.title {
+  display: inline;
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: arial;
+}
+
+.content {
+  margin: auto;
+  background-color: #ffffff;
+  height: 630px;
+  width: 700px;
+  border-radius: 5px;
+}
+
+/* pulsanti */
+.button {
+  padding: 20px 40px;
+}
+
+.button {
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  border: 1px solid #ddd;
+}
+.task {
+  background-color: #99cbff;
+  color: #ffffff;
+}
+
+.section {
+  background-color: #ffffff;
+  color: #d7d7d7;
+}
+
+hr {
+  border: 1px solid #f6f8f9;
+}
